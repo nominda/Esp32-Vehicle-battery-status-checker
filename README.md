@@ -140,7 +140,7 @@ Change `VOLT_DIVIDER` according to your sensor module:
 
 ## 🎥 Demo Video
 
-[![Video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://youtu.be/your-video-link)
+[![Video](https://www.linkedin.com/posts/nominda-yasasvin-793466416_esp32-iot-batterymonitor-ugcPost-7477910595640483840-9K0H/?utm_source=share&utm_medium=member_android&rcm=ACoAAGnJYt8BJicbbasMIYkevcdRVxzcBP5voLQ)
 
 > *The video shows ESP32 booting, OLED display, connecting via Phone WiFi, and the Web UI in action.*
 

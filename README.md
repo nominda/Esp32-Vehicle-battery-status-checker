@@ -48,7 +48,6 @@ This project uses an ESP32, OLED Display, and Voltage Sensor to display real-tim
 | SCL | GPIO 22 |
 | SDA | GPIO 21 |
 
-![Wiring Diagram](https://via.placeholder.com/600x400?text=ESP32+Battery+Monitor+Wiring)
 
 ---
 
@@ -166,9 +165,8 @@ This project is distributed under the **MIT License**. See the `LICENSE` file fo
 
 ## 📬 Connect with Me
 
-- GitHub: [YourUsername](https://github.com/YourUsername)
-- LinkedIn: [YourProfile](https://linkedin.com/in/yourprofile)
-- YouTube: [YourChannel](https://youtube.com/yourchannel)
+- GitHub: [Nominda] [https://github.com/nominda]
+- LinkedIn: [Nominda Yasasvin]   [https://www.linkedin.com/in/nominda-yasasvin]
 
 ---
 
